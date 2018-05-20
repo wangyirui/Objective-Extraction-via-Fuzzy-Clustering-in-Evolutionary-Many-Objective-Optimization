@@ -6,9 +6,11 @@ reduction method to simplify original optimization problems, in this paper, we p
 
 ## Experiment results
 #### The figures below are the final solution we get and the theoretical Pareto front.
+
 ![](images/DTLZ5.png)
 
 #### The table below compares our performance (Fuzzy-DR) with other state-of-art algorithms
+
 ![](images/Table.png)
 
 
